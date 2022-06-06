@@ -55,3 +55,8 @@ database.schema
 //   }
 // ]
 ```
+
+## Installing / Running this Reproduction
+
+1. Fire up Cockroach by running `docker compose up`
+2. Run the index.mjs file by running `node index.mjs`
